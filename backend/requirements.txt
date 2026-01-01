@@ -1,0 +1,8 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+python-dotenv
+django-jazzmin
+Pillow
+requests
+sslcommerz-sdk-v2
